@@ -1,10 +1,10 @@
 {  
-"name": "LFNE-Ubuntu-22.04",  
+"name": "LFNE-AlmaLinux-9.2",  
 "category": "guest",  
-"description": "Ubuntu 22.04 image with all necessary tools for network engineers to experiment automation, scripting, testing.",  
+"description": "AlmaLinux 9.2 image with all necessary tools for network engineers to experiment automation, scripting, testing.",  
 "vendor_name": "LFNE",  
 "vendor_url": "https://ipnet.xyz",  
-"product_name": "Ubuntu 20.04 - LFNE (Linux for Network Engineers)",  
+"product_name": "AlmaLinux - LFNE (Linux for Network Engineers)",  
 "registry_version": 1,  
 "status": "stable",  
 "maintainer": "Calin C.",  
@@ -12,7 +12,7 @@
 "symbol": "linux_guest.svg",  
 "docker": {  
 "adapters": 1,  
-"image": "yotis/lfne:ubuntu-22.04",  
+"image": "yotis/lfne:almalinux-9.2",  
 "console_type": "telnet"  
 }  
 }
