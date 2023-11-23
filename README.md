@@ -5,7 +5,12 @@ lfne-almalinux-9.2.gns3a - LFNE AlmaLinux (Centos replacement) distro based GNS3
 
 Based on LFNE Docker images (https://hub.docker.com/r/yotis/lfne)
 
-Ubuntu 16.04 image with all necessary tools for network engineers to learn Python.
+Formerly known as PFNE - Python For Network Engineer, the images developed to be more than just for Python learning.
+
+Linux images build with all tools need by network engineers to perform various tasks ranging from simple python script to automation and testing.
+Below is the list of installed applications on LFNE images. Pull one and start experimenting.
+
+I’m using two main distributions to build these images - Ubuntu and AlmaLinux - pick your favorite flavor
 
 Installed packages:
 
