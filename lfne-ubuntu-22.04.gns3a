@@ -1,0 +1,18 @@
+{  
+"name": "LFNE-Ubuntu-22.04",  
+"category": "guest",  
+"description": "Ubuntu 22.04 image with all necessary tools for network engineers to experiment automation, scripting, testing.",  
+"vendor_name": "LFNE",  
+"vendor_url": "https://ipnet.xyz",  
+"product_name": "Ubuntu 20.04 - Linux for Network Engineers",  
+"registry_version": 1,  
+"status": "stable",  
+"maintainer": "Calin C.",  
+"maintainer_email": "calin@firstdigest.com",  
+"symbol": "linux_guest.svg",  
+"docker": {  
+"adapters": 1,  
+"image": "yotis/lfne:ubuntu-22.04",  
+"console_type": "telnet"  
+}  
+}
